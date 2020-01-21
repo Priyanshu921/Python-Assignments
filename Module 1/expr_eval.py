@@ -1,0 +1,12 @@
+#a
+a,b,x,y=4,2,5,4
+result=5*b**2*x-3*a*y**2-8*b**2*x+10*a*y
+print(result)
+#b
+a,y,c=2,3,7
+calc=4*a*y/c-a*y/c
+print(calc)
+#c
+a,b,c,y=4.4,0.0,4.2,3.0
+ans=c+a*y*y/b
+print(ans)
